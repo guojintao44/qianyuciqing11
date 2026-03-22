@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect x="0" y="0" width="800" height="800" fill="#ffffff"/>
+  <rect x="40" y="40" width="720" height="720" fill="none" stroke="#000000" stroke-width="8"/>
+  <rect x="80" y="80" width="240" height="240" fill="none" stroke="#000000" stroke-width="10"/>
+  <rect x="480" y="80" width="240" height="240" fill="none" stroke="#000000" stroke-width="10"/>
+  <rect x="80" y="480" width="240" height="240" fill="none" stroke="#000000" stroke-width="10"/>
+  <g fill="#000000">
+    <rect x="350" y="350" width="28" height="28"/>
+    <rect x="392" y="350" width="28" height="28"/>
+    <rect x="434" y="350" width="28" height="28"/>
+    <rect x="350" y="392" width="28" height="28"/>
+    <rect x="392" y="392" width="28" height="28"/>
+    <rect x="434" y="392" width="28" height="28"/>
+    <rect x="350" y="434" width="28" height="28"/>
+    <rect x="392" y="434" width="28" height="28"/>
+    <rect x="434" y="434" width="28" height="28"/>
+  </g>
+  <text x="400" y="640" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="34" text-anchor="middle" fill="#000000">微信预约二维码</text>
+  <text x="400" y="690" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="18" text-anchor="middle" fill="#444444">请替换为真实二维码图片</text>
+</svg>
